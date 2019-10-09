@@ -1,5 +1,3 @@
-# learninggit
-# daily
-
+Success from persevering
 # 1010
 HW0
